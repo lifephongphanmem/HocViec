@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\WEB\\ASP\\HocViec\\HocViec\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B550C1CF-5C9E-4412-8D66-5795CEF108BE}|Solution Items{B550C1CF-5C9E-4412-8D66-5795CEF108BE}|D:\\WEB\\ASP\\HocViec\\HocViec\\Y\u00EAu c\u1EA7u.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B550C1CF-5C9E-4412-8D66-5795CEF108BE}|Solution Items{B550C1CF-5C9E-4412-8D66-5795CEF108BE}|solutionrelative:Y\u00EAu c\u1EA7u.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817FE09E-0A24-4F16-B7EA-F10651A4DBCC}|HocViec\\App.csproj|d:\\web\\asp\\hocviec\\hocviec\\hocviec\\app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{817FE09E-0A24-4F16-B7EA-F10651A4DBCC}|HocViec\\App.csproj|solutionrelative:hocviec\\app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817FE09E-0A24-4F16-B7EA-F10651A4DBCC}|HocViec\\App.csproj|d:\\web\\asp\\hocviec\\hocviec\\hocviec\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{817FE09E-0A24-4F16-B7EA-F10651A4DBCC}|HocViec\\App.csproj|solutionrelative:hocviec\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817FE09E-0A24-4F16-B7EA-F10651A4DBCC}|HocViec\\App.csproj|d:\\web\\asp\\hocviec\\hocviec\\hocviec\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{817FE09E-0A24-4F16-B7EA-F10651A4DBCC}|HocViec\\App.csproj|solutionrelative:hocviec\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817FE09E-0A24-4F16-B7EA-F10651A4DBCC}|HocViec\\App.csproj|d:\\web\\asp\\hocviec\\hocviec\\hocviec\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{817FE09E-0A24-4F16-B7EA-F10651A4DBCC}|HocViec\\App.csproj|solutionrelative:hocviec\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +39,71 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Y\u00EAu c\u1EA7u.txt",
+              "DocumentMoniker": "D:\\WEB\\ASP\\HocViec\\HocViec\\Y\u00EAu c\u1EA7u.txt",
+              "RelativeDocumentMoniker": "Y\u00EAu c\u1EA7u.txt",
+              "ToolTip": "D:\\WEB\\ASP\\HocViec\\HocViec\\Y\u00EAu c\u1EA7u.txt",
+              "RelativeToolTip": "Y\u00EAu c\u1EA7u.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-03T01:56:37.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\WEB\\ASP\\HocViec\\HocViec\\HocViec\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HocViec\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\WEB\\ASP\\HocViec\\HocViec\\HocViec\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HocViec\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T01:54:58.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\WEB\\ASP\\HocViec\\HocViec\\HocViec\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HocViec\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\WEB\\ASP\\HocViec\\HocViec\\HocViec\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HocViec\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T01:54:29.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WEB\\ASP\\HocViec\\HocViec\\HocViec\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HocViec\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\WEB\\ASP\\HocViec\\HocViec\\HocViec\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HocViec\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T01:51:49.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App",
+              "DocumentMoniker": "D:\\WEB\\ASP\\HocViec\\HocViec\\HocViec\\App.csproj",
+              "RelativeDocumentMoniker": "HocViec\\App.csproj",
+              "ToolTip": "D:\\WEB\\ASP\\HocViec\\HocViec\\HocViec\\App.csproj",
+              "RelativeToolTip": "HocViec\\App.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-03T01:51:38.154Z",
+              "EditorCaption": ""
             }
           ]
         }
