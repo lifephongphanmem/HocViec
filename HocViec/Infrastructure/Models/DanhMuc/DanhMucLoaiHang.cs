@@ -10,7 +10,8 @@ namespace Infrastructure.Models.DanhMuc
 {
     public class DanhMucLoaiHang: BaseModel
     {
-        public required string TenLoaiHang { get; set; }
+        [Required(ErrorMessage = "Họ tên không được để trống.")]
+        public string TenLoaiHang { get; set; }
 
         public string? GhiChu { get; set; }
 
